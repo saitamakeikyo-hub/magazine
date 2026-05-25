@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lwConfig>
+  <type>FLIPPERU2</type>
+  <version><![CDATA[5.0.9]]></version>
+  <title><![CDATA[埼玉経協ニュース452号（2026年4・5月号）]]></title>
+  <file><![CDATA[index.html]]></file>
+  <thumbnail>
+    <content><![CDATA[thumbnail.jpg]]></content>
+  </thumbnail>
+</lwConfig>

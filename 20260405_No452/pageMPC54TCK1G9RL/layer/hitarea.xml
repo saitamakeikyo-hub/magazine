@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+  <hitArea version="5.0.0">
+  <a>
+    <id>1</id>
+    <_name>link_1</_name>
+    <shape>box</shape>
+    <_x>55.69</_x>
+    <_y>492.81</_y>
+    <shapeWidth>546.11</shapeWidth>
+    <shapeHeight>365.28</shapeHeight>
+    <shapeRotation>0</shapeRotation>
+    <useHandCursor>true</useHandCursor>
+    <body><![CDATA[]]></body>
+    <key><![CDATA[]]></key>
+    <linkTarget>_blank</linkTarget>
+    <linkUrl><![CDATA[https://www.saishin.co.jp/houjin/]]></linkUrl>
+    <linkTargetContentID></linkTargetContentID>
+    <activeFill>false</activeFill>
+    <activeRoFill>false</activeRoFill>
+    <activeLine>false</activeLine>
+    <activeRoLine>false</activeRoLine>
+    <hitColor>0xffffff</hitColor>
+    <hitAlpha>20</hitAlpha>
+    <lineColor>0xffffff</lineColor>
+    <lineAlpha>20</lineAlpha>
+    <lineThickness>1</lineThickness>
+    <roColor>0xffffff</roColor>
+    <roAlpha>20</roAlpha>
+    <roLineColor>0xffffff</roLineColor>
+    <roLineAlpha>20</roLineAlpha>
+    <roLineThickness>1</roLineThickness>
+  </a>
+  </hitArea>
+</page>

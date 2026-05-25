@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+  <hitArea version="5.0.0">
+  <a>
+    <id>1</id>
+    <_name>link_1</_name>
+    <shape>box</shape>
+    <_x>36.09</_x>
+    <_y>465.66</_y>
+    <shapeWidth>540.96</shapeWidth>
+    <shapeHeight>387.95</shapeHeight>
+    <shapeRotation>0</shapeRotation>
+    <useHandCursor>true</useHandCursor>
+    <body><![CDATA[]]></body>
+    <key><![CDATA[]]></key>
+    <linkTarget>_blank</linkTarget>
+    <linkUrl><![CDATA[https://www.youtube.com/watch?v=IwguIBre0zk]]></linkUrl>
+    <linkTargetContentID></linkTargetContentID>
+    <activeFill>false</activeFill>
+    <activeRoFill>false</activeRoFill>
+    <activeLine>false</activeLine>
+    <activeRoLine>false</activeRoLine>
+    <hitColor>0xffffff</hitColor>
+    <hitAlpha>20</hitAlpha>
+    <lineColor>0xffffff</lineColor>
+    <lineAlpha>20</lineAlpha>
+    <lineThickness>1</lineThickness>
+    <roColor>0xffffff</roColor>
+    <roAlpha>20</roAlpha>
+    <roLineColor>0xffffff</roLineColor>
+    <roLineAlpha>20</roLineAlpha>
+    <roLineThickness>1</roLineThickness>
+  </a>
+  </hitArea>
+</page>

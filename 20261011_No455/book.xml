@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<setting xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="Object">
+  <flipperVersion type="String">5.2.1</flipperVersion>
+  <keycode type="String">RbGmRgbK3LpEJU5ZGaQMZfUmM2BuYB/3R0TSOtTaAkoG6H6xnoH24ptOgvI9aLFZ1v3u3C5se5GMhMW8d1xKKE7h24Yz7T8m5Mey+gegwrM9LOHPt/hQ4k7HqpirIKhq3ry3i5s4smVvy7MSli4zyZF8+4slCPh8QSx2BRPbEzZmFVA/un6vkC8ngZNuVP3iaKUnTVIUWVUQYdFaATfkWHQhH5gyQa4S7TO63818gVjCjU9THn1oGnB42xk0mbQlvr/BAwEfkydxoTNTRqhOIk1WkKcXjfFRYGp0tmjQMuJKphKZ2pnjP9JdbUua5J8FVwXPZOCJ59feZVL4JhMkSglTnigNEt70viQ4Wubc5e5U+xfJdG3jfj7RT+urtT4FRDWIsjwOWEY=</keycode>
+  <publishDate type="String"><![CDATA[2026/11/19 17:29:26]]></publishDate>
+  <bookInformation type="Object">
+    <bookID type="String"><![CDATA[UFL-0C7D795B]]></bookID>
+    <bookTitle type="String"><![CDATA[埼玉経協ニュース455号（2026年10・11月号）]]></bookTitle>
+    <bookComment type="String"><![CDATA[]]></bookComment>
+    <total type="Number">18</total>
+    <maxMagnification type="Number">4</maxMagnification>
+    <bookDirection type="String">r2l</bookDirection>
+    <startPageSetting type="Number">1</startPageSetting>
+    <allowPrint type="Boolean">true</allowPrint>
+    <allowMemo type="Boolean">false</allowMemo>
+    <pageWidth type="Number">636</pageWidth>
+    <pageHeight type="Number">900</pageHeight>
+    <sliceWidth type="Number">400</sliceWidth>
+    <sliceHeight type="Number">400</sliceHeight>
+    <data type="String"><![CDATA[MWIOWUW45IMMT,MWIOWUW5V5SJE,MWIOWUW7ZJ4WI,MWIOWUW8OY01L,MWIOWUW9UISXM,MWIOWUWA46QJK,MWIOWUWBMY56Z,MWIOWUWC3QGMQ,MWIOWUWDUH82F,MWIOWV116OSRC,MWIOWV13BTF5V,MWIOWV14L60WM,MWIOWV14PZ8K6,MWIOWV15H6YSE,MWIOWV16DRD4U,MWIOWV16G3CUQ,MWIOWV17TR50C,MWIOWV18TRQ1E]]></data>
+    <label type="String"><![CDATA[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18]]></label>
+    <labelDisplay type="Boolean">false</labelDisplay>
+    <shadowDisplay type="Boolean">true</shadowDisplay>
+    <thicknessDisplay type="Boolean">true</thicknessDisplay>
+    <speed type="String">0.5</speed>
+    <sound type="Boolean">true</sound>
+  </bookInformation>
+  <skinOption htmlSkinType="default">
+    <visualIndex label="label" visible="false" init="close" />
+    <textIndex label="label" treeOpen="false" visible="true" init="close" />
+    <fusenIndex label="label" visible="false" init="close" />
+    <textSearch label="label" visible="true" mode="glyph" />
+    <pdf visible="false" type="book" />
+    <url dispUrl="" visible="false" />
+    <embedHtml url="../index.html" visible="false" />
+    <help visible="false" />
+    <pageIndicate total="0" format="2" visible="true" />
+    <textRectangularSelect visible="false" />
+    <dynamicSizing visible="true" />
+    <twitter tags="" timeline="false" />
+    <googleAnalytics visible="false" key="" type="" />
+    <sns>
+      <twitter visible="false" />
+      <mail visible="false" />
+      <line visible="false" />
+    </sns>
+    <contentPasswordHash></contentPasswordHash>
+    <printOption multiplePagesPrint="false" />
+    <changeMemoVisible visible="false" />
+    <weblio visible="false" />
+  </skinOption>
+  <makeroption>
+    <scormScoreType>normal</scormScoreType>
+    <isOnlineStorage>false</isOnlineStorage>
+  </makeroption>
+  <html5setting>
+    <language><![CDATA[ja]]></language>
+    <flipButton enabled="true" />
+    <header enabled="false" bgColor="" target="">
+      <url><![CDATA[]]></url>
+    </header>
+    <fusen>
+      <bgColor>
+        <color><![CDATA[#ffffff]]></color>
+        <color><![CDATA[#fdee74]]></color>
+        <color><![CDATA[#fcb4cc]]></color>
+        <color><![CDATA[#93ccea]]></color>
+        <color><![CDATA[#d7fdcd]]></color>
+      </bgColor>
+    </fusen>
+    <tegaki>
+      <penColor>
+        <color><![CDATA[#000000]]></color>
+        <color><![CDATA[#DD1616]]></color>
+        <color><![CDATA[#DDB516]]></color>
+        <color><![CDATA[#4AB086]]></color>
+        <color><![CDATA[#2D6DDD]]></color>
+      </penColor>
+      <penThickness>
+        <thickness><![CDATA[1]]></thickness>
+        <thickness><![CDATA[8]]></thickness>
+        <thickness><![CDATA[15]]></thickness>
+      </penThickness>
+      <penThicknessClass>
+        <class><![CDATA[small]]></class>
+        <class><![CDATA[medium]]></class>
+        <class><![CDATA[large]]></class>
+      </penThicknessClass>
+    </tegaki>
+    <mobile>
+      <closeButton type="default" />
+      <homepageButton enabled="false" target="_blank">
+        <url><![CDATA[https://www.logosware.com/]]></url>
+      </homepageButton>
+    </mobile>
+  </html5setting>
+</setting>
